@@ -1,4 +1,5 @@
 Cities With Completed Trades [Robinhood SQL Interview Question]
+https://datalemur.com/questions/completed-trades
 
 SELECT u.city, 
 COUNT (t.order_id) AS total_orders
