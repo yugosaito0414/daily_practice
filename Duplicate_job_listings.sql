@@ -1,5 +1,6 @@
 --[Duplicate Job Listings [Linkedin SQL Interview Question]
 --https://datalemur.com/questions/duplicate-job-listings
+--accepted
 
 WITH jobs_grouped AS (
   SELECT 
