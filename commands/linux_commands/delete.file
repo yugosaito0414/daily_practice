@@ -1,0 +1,7 @@
+*How To Delete a File
+
+rm FileName_To_Delete
+
+Ex.
+rm test.sql
+
