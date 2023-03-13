@@ -1,0 +1,6 @@
+*How To Rename a File*
+mv Old_FileName NewFileName
+
+Ex.
+mv tmp.sql test.sql
+
