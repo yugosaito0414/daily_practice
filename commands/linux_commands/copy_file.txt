@@ -1,0 +1,3 @@
+*How To Copy a File*
+cp file1.txt file2.txt
+
