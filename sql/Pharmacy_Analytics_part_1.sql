@@ -2,7 +2,8 @@
 --https://datalemur.com/questions/top-profitable-drugs
 
 SELECT 
-    drug, SUM(total_sales - cogs) AS Total_Profit
+    drug, 
+    SUM(total_sales - cogs) AS Total_Profit
 FROM 
     pharmacy_sales
 GROUP BY 
