@@ -1,0 +1,15 @@
+*SQL Conventions*
+
+1.Naming Conventions
+ -Use the snake case for sql file names
+ ex. test_file.sql
+
+2.Formatting
+ -Use indentation (either tab or 4 spaces)
+ ex SELECT
+        COLUMN_ONE
+       ,COLUMN_TWO
+    FROM
+        TEST_TABLE
+
+
