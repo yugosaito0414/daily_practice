@@ -1,0 +1,8 @@
+*ls command*
+It is used to list the contents of a directory
+
+*Options*
+-a: lists all contents, including hidden files and directories.
+-l: lists all contents, in long format.
+-t: lists all contents, by the time they were last modified.
+
