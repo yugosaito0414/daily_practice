@@ -1,3 +1,5 @@
 # datalemur_practice
-Making a new repository to practice SQL. 
-Continue practicing this website until you get confortable with SQL. 
+# stratascratch
+
+Making a new repository to practice SQL and Python. 
+Continue practicing these two websites until I get confortable with SQL and Python. 
